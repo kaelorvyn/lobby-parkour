@@ -1,0 +1,11 @@
+name: LobbyParkour
+version: 1.0.0
+main: com.kaelorvyn.lobbyparkour.LobbyParkourPlugin
+api-version: '1.21'
+description: Lobby parkour checkpoints with DoubleJumpZ integration.
+depend: [DoubleJumpZ, EssentialsSpawn]
+
+commands:
+  kback:
+    description: Return to your last parkour checkpoint or reset it.
+    usage: /kback [exit]

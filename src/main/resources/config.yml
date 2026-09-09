@@ -1,0 +1,7 @@
+world: world
+messages:
+  checkpoint: '&a已记录存档点，超级跳已禁用。'
+  checkpoint-missing: '&c你还没有记录过存档点。'
+  returned: '&e已返回最后一个存档点，超级跳已禁用。'
+  victory: '&a跑酷成功！'
+  spawn-fallback: '&c大厅出生点读取失败，已使用世界出生点。'
